@@ -11,7 +11,7 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Blue: hsl(246, 80%, 60%)
+- Blue: hsl(246, 80%, 60%) // profileContainer Background
 
 - Light red (work): hsl(15, 100%, 70%)
 - Soft blue (play): hsl(195, 74%, 62%)
@@ -22,8 +22,8 @@ The designs were created to the following widths:
 
 ### Neutral
 
-- Very dark blue: hsl(226, 43%, 10%)
-- Dark blue: hsl(235, 46%, 20%)
+- Very dark blue: hsl(226, 43%, 10%) // body background
+- Dark blue: hsl(235, 46%, 20%) // sub card background
 - Desaturated blue: hsl(235, 45%, 61%)
 - Pale Blue: hsl(236, 100%, 87%)
 
